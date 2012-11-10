@@ -310,7 +310,9 @@ public class TeacherStudentProject extends JFrame {
             TeacherStudentProject mainFrame = new TeacherStudentProject();
 
             mainFrame.setVisible(true);
-            
+            //main
+            //mam
+            //check
         }
 	// JFormDesigner - Variables declaration - DO NOT MODIFY  //GEN-BEGIN:variables
 	// JFormDesigner - End of variables declaration  //GEN-END:variables
